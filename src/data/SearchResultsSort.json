@@ -1,0 +1,18 @@
+[
+  {
+    "id": "rel",
+    "value": "Relevance"
+  },
+  {
+    "id": "dt",
+    "value": "Sale Date Soonest"
+  },
+  {
+    "id": "elow",
+    "value": "Price Realized Low to High"
+  },
+  {
+    "id": "ehigh",
+    "value": "Price Realized High to Low"
+  }
+]

@@ -1,0 +1,118 @@
+[
+	{
+	  "category":"Auction",
+	  "filters":[
+		{"id":"1","label":"Livres rares et manuscrits","amount":5},
+		{"id":"2","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"3",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"4",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		},
+		{"id":"5","label":"Livres rares et manuscrits","amount":5},
+		{"id":"6","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"7",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"8",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		}
+	  ]
+	},
+	{
+	  "category":"Location",
+	  "filters":[
+		{"id":"9","label":"Livres rares et manuscrits","amount":5},
+		{"id":"10","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"11",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"12",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		},
+		{"id":"13","label":"Livres rares et manuscrits","amount":5},
+		{"id":"14","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"15",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"16",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		}
+	  ]
+	},
+	{
+	  "category":"Artist/Maker/Author",
+	  "filters":[
+		{"id":"17","label":"Livres rares et manuscrits","amount":5},
+		{"id":"18","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"19",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"20",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		},
+		{"id":"21","label":"Livres rares et manuscrits","amount":5},
+		{"id":"22","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"23",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"24",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		}
+	  ]
+	},
+	{
+	  "category":"Date",
+	  "filters":[
+		{"id":"25","label":"Livres rares et manuscrits","amount":5},
+		{"id":"26","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"27",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"28",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		},
+		{"id":"29","label":"Livres rares et manuscrits","amount":5},
+		{"id":"30","label":"The Jeremy Lancaster Collection","amount":1},
+		{
+		  "id":"31",
+		  "label":"20th Century & Contemporary Art (Evening Sale) (21 Sep 2019)",
+		  "amount":1
+		},
+		{
+		  "id":"32",
+		  "label":"Impressionist and Modern Art Evening Sale (18 June 2019)",
+		  "amount":6
+		}
+	  ]
+	}
+  ]
